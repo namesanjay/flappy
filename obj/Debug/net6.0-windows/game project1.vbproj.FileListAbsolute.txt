@@ -1,0 +1,38 @@
+C:\Users\Acer\source\repos\game project\bin\Debug\net6.0-windows\game project1.exe
+C:\Users\Acer\source\repos\game project\bin\Debug\net6.0-windows\game project1.deps.json
+C:\Users\Acer\source\repos\game project\bin\Debug\net6.0-windows\game project1.runtimeconfig.json
+C:\Users\Acer\source\repos\game project\bin\Debug\net6.0-windows\game project1.dll
+C:\Users\Acer\source\repos\game project\bin\Debug\net6.0-windows\game project1.pdb
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.vbproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game_project1.Form1.resources
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.vbproj.GenerateResource.cache
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.AssemblyInfo.vb
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.dll
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\refint\game project1.dll
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.pdb
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game project1.genruntimeconfig.cache
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\ref\game project1.dll
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game_project1.Resources.resources
+C:\Users\Acer\source\repos\game project\obj\Debug\net6.0-windows\game_project1.start_page.resources
+D:\game project\bin\Debug\net6.0-windows\game project1.exe
+D:\game project\bin\Debug\net6.0-windows\game project1.deps.json
+D:\game project\bin\Debug\net6.0-windows\game project1.runtimeconfig.json
+D:\game project\bin\Debug\net6.0-windows\game project1.dll
+D:\game project\bin\Debug\net6.0-windows\game project1.pdb
+D:\game project\obj\Debug\net6.0-windows\game project1.vbproj.AssemblyReference.cache
+D:\game project\obj\Debug\net6.0-windows\game_project1.Form1.resources
+D:\game project\obj\Debug\net6.0-windows\game_project1.Resources.resources
+D:\game project\obj\Debug\net6.0-windows\game_project1.start_page.resources
+D:\game project\obj\Debug\net6.0-windows\game project1.vbproj.GenerateResource.cache
+D:\game project\obj\Debug\net6.0-windows\game project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\game project\obj\Debug\net6.0-windows\game project1.AssemblyInfoInputs.cache
+D:\game project\obj\Debug\net6.0-windows\game project1.AssemblyInfo.vb
+D:\game project\obj\Debug\net6.0-windows\game project1.vbproj.CoreCompileInputs.cache
+D:\game project\obj\Debug\net6.0-windows\game project1.dll
+D:\game project\obj\Debug\net6.0-windows\refint\game project1.dll
+D:\game project\obj\Debug\net6.0-windows\game project1.pdb
+D:\game project\obj\Debug\net6.0-windows\game project1.genruntimeconfig.cache
+D:\game project\obj\Debug\net6.0-windows\ref\game project1.dll
